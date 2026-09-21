@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "ecgfit"
+authors:
+  - family-names: Tenbrink
+    given-names: Lukas
+preferred-citation:
+  type: conference-paper
+  title: "Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function"
+  authors:
+    - family-names: Tenbrink
+      given-names: Lukas
+    - family-names: Rizas
+      given-names: Konstantinos D.
+    - family-names: Loewe
+      given-names: Axel
+  conference:
+    name: "Computing in Cardiology 2026"
+  year: 2026
+  # TODO: add DOI once published
