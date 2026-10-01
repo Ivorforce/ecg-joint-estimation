@@ -4,12 +4,14 @@ title: "ecgfit"
 authors:
   - family-names: Tenbrink
     given-names: Lukas
+    orcid: "https://orcid.org/0009-0009-5109-4485"
 preferred-citation:
   type: conference-paper
   title: "Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function"
   authors:
     - family-names: Tenbrink
       given-names: Lukas
+      orcid: "https://orcid.org/0009-0009-5109-4485"
     - family-names: Rizas
       given-names: Konstantinos D.
     - family-names: Loewe

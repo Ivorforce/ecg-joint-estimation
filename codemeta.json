@@ -34,6 +34,7 @@
   ],
   "author": [
     {
+      "@id": "https://orcid.org/0009-0009-5109-4485",
       "@type": "Person",
       "givenName": "Lukas",
       "familyName": "Tenbrink",
@@ -50,6 +51,7 @@
     }
   ],
   "maintainer": {
+    "@id": "https://orcid.org/0009-0009-5109-4485",
     "@type": "Person",
     "givenName": "Lukas",
     "familyName": "Tenbrink"
@@ -59,9 +61,22 @@
     "name": "Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function",
     "datePublished": "2026",
     "author": [
-      { "@type": "Person", "givenName": "Lukas", "familyName": "Tenbrink" },
-      { "@type": "Person", "givenName": "Konstantinos D.", "familyName": "Rizas" },
-      { "@type": "Person", "givenName": "Axel", "familyName": "Loewe" }
+      {
+        "@id": "https://orcid.org/0009-0009-5109-4485",
+        "@type": "Person",
+        "givenName": "Lukas",
+        "familyName": "Tenbrink"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Konstantinos D.",
+        "familyName": "Rizas"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Axel",
+        "familyName": "Loewe"
+      }
     ]
   }
 }
