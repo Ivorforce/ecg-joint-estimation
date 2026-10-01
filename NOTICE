@@ -1,0 +1,10 @@
+ecgfit
+Copyright (c) 2026 Lukas Tenbrink
+Licensed under the MIT License; see LICENSE.
+
+This product includes third-party code:
+
+- src/ecgfit/wavelets.py is taken without functional changes from
+  tensorflow-wavelets 1.1.2 (https://github.com/Timorleiderman/tensorflow-wavelets),
+  MIT License, Copyright (c) 2021 Timor. The full notice is reproduced at the
+  top of that file.
