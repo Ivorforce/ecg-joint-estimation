@@ -1,0 +1,67 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "ecgfit",
+  "description": "Joint estimation of beat morphology and baseline for the 12-lead ECG. A recording is modeled as one beat template per beat cluster and lead, placed at every R peak, plus a slowly drifting baseline per lead. Both are estimated together by gradient descent on the reconstruction error and five regularization terms, so that morphology and baseline are returned as two separate signals. Includes the evaluation scripts of the corresponding Computing in Cardiology 2026 paper.",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "codeRepository": "https://github.com/Ivorforce/ecg-joint-estimation",
+  "issueTracker": "https://github.com/Ivorforce/ecg-joint-estimation/issues",
+  "readme": "https://github.com/Ivorforce/ecg-joint-estimation/blob/main/README.md",
+  "developmentStatus": "active",
+  "dateCreated": "2026-09-21",
+  "datePublished": "2026-09-21",
+  "dateModified": "2026-10-01",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python 3.9",
+  "softwareRequirements": [
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "PyWavelets",
+    "tensorflow>=2.16",
+    "keras>=3"
+  ],
+  "keywords": [
+    "electrocardiography",
+    "ECG",
+    "baseline wander",
+    "T wave morphology",
+    "signal decomposition",
+    "template fitting",
+    "wavelet transform",
+    "biomedical signal processing"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Lukas",
+      "familyName": "Tenbrink",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Department of Cardiology, LMU Klinikum, Munich, Germany"
+        },
+        {
+          "@type": "Organization",
+          "name": "Institute of Biomedical Engineering, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
+        }
+      ]
+    }
+  ],
+  "maintainer": {
+    "@type": "Person",
+    "givenName": "Lukas",
+    "familyName": "Tenbrink"
+  },
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function",
+    "datePublished": "2026",
+    "author": [
+      { "@type": "Person", "givenName": "Lukas", "familyName": "Tenbrink" },
+      { "@type": "Person", "givenName": "Konstantinos D.", "familyName": "Rizas" },
+      { "@type": "Person", "givenName": "Axel", "familyName": "Loewe" }
+    ]
+  }
+}
