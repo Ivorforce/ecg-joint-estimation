@@ -77,3 +77,8 @@ that the noise is the same on every run.
 With the pinned versions on macOS arm64, the fits are bit-identical to the
 paper's. Other versions or platforms can change float32 rounding, and 300
 optimization steps amplify that, so individual fits may then differ slightly.
+
+## Funding
+
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+Foundation) – project number 549333517.
