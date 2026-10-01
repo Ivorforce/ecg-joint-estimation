@@ -68,11 +68,13 @@
         "familyName": "Tenbrink"
       },
       {
+        "@id": "https://orcid.org/0000-0002-5993-0339",
         "@type": "Person",
         "givenName": "Konstantinos D.",
         "familyName": "Rizas"
       },
       {
+        "@id": "https://orcid.org/0000-0002-2487-4744",
         "@type": "Person",
         "givenName": "Axel",
         "familyName": "Loewe"

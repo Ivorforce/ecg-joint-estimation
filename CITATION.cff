@@ -14,8 +14,10 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0009-5109-4485"
     - family-names: Rizas
       given-names: Konstantinos D.
+      orcid: "https://orcid.org/0000-0002-5993-0339"
     - family-names: Loewe
       given-names: Axel
+      orcid: "https://orcid.org/0000-0002-2487-4744"
   conference:
     name: "Computing in Cardiology 2026"
   year: 2026
