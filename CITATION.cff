@@ -5,6 +5,15 @@ authors:
   - family-names: Tenbrink
     given-names: Lukas
     orcid: "https://orcid.org/0009-0009-5109-4485"
+    affiliation: "Department of Cardiology, LMU Klinikum, Munich, Germany"
+  - family-names: Rizas
+    given-names: Konstantinos D.
+    orcid: "https://orcid.org/0000-0002-5993-0339"
+    affiliation: "Department of Cardiology, LMU Klinikum, Munich, Germany"
+  - family-names: Loewe
+    given-names: Axel
+    orcid: "https://orcid.org/0000-0002-2487-4744"
+    affiliation: "Institute of Biomedical Engineering, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
 preferred-citation:
   type: conference-paper
   title: "Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function"

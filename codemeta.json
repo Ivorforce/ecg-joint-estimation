@@ -48,6 +48,30 @@
           "name": "Institute of Biomedical Engineering, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
         }
       ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-5993-0339",
+      "@type": "Person",
+      "givenName": "Konstantinos D.",
+      "familyName": "Rizas",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Department of Cardiology, LMU Klinikum, Munich, Germany"
+        }
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-2487-4744",
+      "@type": "Person",
+      "givenName": "Axel",
+      "familyName": "Loewe",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Institute of Biomedical Engineering, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
+        }
+      ]
     }
   ],
   "maintainer": {
