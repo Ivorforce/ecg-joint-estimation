@@ -77,6 +77,19 @@
         "givenName": "Axel",
         "familyName": "Loewe"
       }
-    ]
-  }
+    ],
+    "isPartOf": {
+      "@type": "PublicationEvent",
+      "name": "Computing in Cardiology 2026",
+      "location": "Madrid, Spain",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-23"
+    }
+  },
+  "funder": {
+    "@id": "https://doi.org/10.13039/501100001659",
+    "@type": "Organization",
+    "name": "Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)"
+  },
+  "funding": "DFG project number 549333517 (grant reference RI 3061/1-1)"
 }
