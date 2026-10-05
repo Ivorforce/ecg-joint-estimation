@@ -1,0 +1,35 @@
+{
+  "title": "ecgfit: joint beat-morphology and baseline estimation for the 12-lead ECG",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "mit",
+  "description": "<p>Joint estimation of beat morphology and baseline for the 12-lead ECG. A recording is modeled as one beat template per beat cluster and lead, placed at every R peak, plus a slowly drifting baseline per lead. Both are estimated together by gradient descent on the reconstruction error and five regularization terms, so morphology and baseline are returned as two separate signals.</p><p>Includes the evaluation scripts of the corresponding Computing in Cardiology 2026 paper, <em>Joint Morphology and Baseline Estimation for the 12-Lead ECG via an Interpretable Cost Function</em>.</p>",
+  "creators": [
+    {
+      "name": "Tenbrink, Lukas",
+      "affiliation": "Department of Cardiology, LMU Klinikum, Munich, Germany",
+      "orcid": "0009-0009-5109-4485"
+    },
+    {
+      "name": "Rizas, Konstantinos D.",
+      "affiliation": "Department of Cardiology, LMU Klinikum, Munich, Germany",
+      "orcid": "0000-0002-5993-0339"
+    },
+    {
+      "name": "Loewe, Axel",
+      "affiliation": "Institute of Biomedical Engineering, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany",
+      "orcid": "0000-0002-2487-4744"
+    }
+  ],
+  "keywords": [
+    "electrocardiography",
+    "ECG",
+    "baseline wander",
+    "T wave morphology",
+    "signal decomposition",
+    "template fitting",
+    "wavelet transform",
+    "biomedical signal processing"
+  ],
+  "notes": "Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - project number 549333517."
+}
