@@ -82,3 +82,11 @@ optimization steps amplify that, so individual fits may then differ slightly.
 
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
 Foundation) – project number 549333517.
+
+## AI use
+
+Claude (Anthropic) was used under the authors' direction to write the evaluation
+and plotting scripts, to draft and edit prose, and to translate and speed up the
+implementation of the method. The method itself was devised without AI. Every
+output was reviewed by the authors, who are responsible for all content. AI is
+not credited as an author.
