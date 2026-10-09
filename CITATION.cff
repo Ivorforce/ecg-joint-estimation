@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the paper."
 title: "ecgfit"
+doi: 10.5281/zenodo.23267722
 authors:
   - family-names: Tenbrink
     given-names: Lukas

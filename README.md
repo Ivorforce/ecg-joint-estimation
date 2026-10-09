@@ -1,5 +1,7 @@
 # ecgfit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23267722.svg)](https://doi.org/10.5281/zenodo.23267722)
+
 Joint estimation of beat morphology and baseline for the 12-lead ECG, and the
 experiments of the paper
 
